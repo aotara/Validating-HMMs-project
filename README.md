@@ -2,6 +2,8 @@
 This repository contains the data and codes for all the analyses performed in the paper 'Validating hidden Markov models for seabird behavioural inference.'
 
 # Folder description
+
+Folders are uploaded in the order their respective results output appear in the paper.
 - **Fig2**: Figure 2 folder contains code and data files used in generating figure 2 in the paper
 - **Figs4-5**: Figures 4 and 5 folder contains code and data files used in generating figures 4 and 5 in the paper
 - **Fig6**: Figure 6 folder contains code and data files used in generating figure 6 in the paper
