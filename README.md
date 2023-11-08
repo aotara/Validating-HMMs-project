@@ -3,7 +3,7 @@ This repository contains the data and codes for all the analyses performed in th
 
 # Folder description
 
-Folders are uploaded in the order their respective results output appear in the paper.
+Folders are described in the order they appear in the paper.
 - **Fig2**: Figure 2 folder contains code and data files used in generating figure 2 in the paper
 - **Figs4-5**: Figures 4 and 5 folder contains code and data files used in generating figures 4 and 5 in the paper
 - **Fig6**: Figure 6 folder contains code and data files used in generating figure 6 in the paper
